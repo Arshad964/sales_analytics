@@ -1,0 +1,5 @@
+MariaServer="127.0.0.1"
+MariaPort="3306"
+MariaUser="root"
+MariaPassword="root@123"
+MariaDatabase="dev"
