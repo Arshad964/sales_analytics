@@ -41,7 +41,6 @@ Automatic: Every day at 6:00 AM
 
 ### Api List
 
-Manual: See API below
 Method	-  POST
 Route  - /api/refresh
 Description	 -  Refresh data from CSV 
